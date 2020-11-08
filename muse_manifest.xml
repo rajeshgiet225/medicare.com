@@ -1,0 +1,249 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="medi.com" resolutions="1x" timestamp="1604867406885">
+  <folder name="css">
+    <file name="site_global.css" crc="4243652679"/>
+    <file name="index.css" crc="384107319" ref="index"/>
+    <file name="untitled-8.css" crc="495403179" ref="untitled-8"/>
+    <file name="gallery.css" crc="17801155" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="406464231" ref="gallery"/>
+    <file name="about-us.css" crc="332911622" ref="about-us"/>
+    <file name="contact.css" crc="521746228" ref="contact"/>
+    <file name="nomq_contact.css" crc="3776511205" ref="contact"/>
+    <file name="service.css" crc="4089286605" ref="service"/>
+    <file name="our-team.css" crc="3825947645" ref="our-team"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about-us:service:gallery:contact:our-team"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about-us:service:gallery:contact:our-team"/>
+    <file name="webpro.js" crc="3856315280" ref="index:gallery:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:gallery:contact"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:gallery:contact"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:gallery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="require.js" crc="4177726516" ref="index:about-us:service:gallery:contact:our-team:untitled-8"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="gallery:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3912011798" ref="index"/>
+    <file name="logomedicare-u307-fr.jpg" crc="86832618" ref="index:about-us:service:gallery:contact:our-team"/>
+    <file name="phone-grey.png" crc="21956100" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="phone32.png" crc="3946229483" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="mail-grey.png" crc="4232297979" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="dribble.jpg" crc="3900312861" seo="true" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="3814358492" seo="true" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="linkedin.jpg" crc="4032340596" seo="true" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="pinterest.jpg" crc="340003248" seo="true" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="462041627" seo="true" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="greensrip.jpg" crc="380491476" ref="index:about-us:service:gallery:contact:our-team">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1herodd.jpg" crc="433195491" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="packeges.jpg" crc="300606538" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nurse.jpg" crc="363383488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m1-u983-a-fr.jpg" crc="175505676" ref="index"/>
+    <file name="m2-u981-a-fr.jpg" crc="311114888" ref="index"/>
+    <file name="m4.jpg" crc="4062516401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero3.jpg" crc="136481930" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logomedicare.jpg" crc="64714054" ref="index:about-us:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="1w2.jpg" crc="35178443" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cer1.jpg" crc="3935958568" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1w.jpg" crc="143502888" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img20201021125815.jpg" crc="3916400074" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="frame-gallery.png" crc="4097378540" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021125920-u2682-fr.jpg" crc="470943702" ref="gallery"/>
+    <file name="img20201021125825-u2681-fr.jpg" crc="4195758240" ref="gallery"/>
+    <file name="img20201021125931-u2683-fr.jpg" crc="4154800596" ref="gallery"/>
+    <file name="img20201021125815-u2685-fr.jpg" crc="3872794543" ref="gallery"/>
+    <file name="img20201021125837-u2684-fr.jpg" crc="304668095" ref="gallery"/>
+    <file name="img20201021130047-u2686-fr.jpg" crc="4133759183" ref="gallery"/>
+    <file name="img20201021125920.jpg" crc="3996306378" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021125825.jpg" crc="3887075113" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021125931.jpg" crc="3928033978" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img202010211258152.jpg" crc="47077496" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021125837.jpg" crc="510006626" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img20201021130047.jpg" crc="155251438" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="phone32-u1843-fr.png" crc="4068654033" ref="gallery"/>
+    <file name="logomedicare-u1861-fr.jpg" crc="187824744" ref="gallery"/>
+    <file name="greensrip-u1860-fr.jpg" crc="4220347086" ref="gallery:contact"/>
+    <file name="img20201021125916-u6226-fr.jpg" crc="113067592" ref="gallery"/>
+    <file name="img20201021125837-u6236-fr.jpg" crc="4001686730" ref="gallery"/>
+    <file name="img20201021125847-u6242-fr.jpg" crc="19695969" ref="gallery"/>
+    <file name="img20201021125931-u6248-fr.jpg" crc="3838704843" ref="gallery"/>
+    <file name="img20201021125815-u6254-fr.jpg" crc="100275574" ref="gallery"/>
+    <file name="img20201021130047-u6260-fr.jpg" crc="335992371" ref="gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery:contact"/>
+    <file name="logomedicare-u645-fr.jpg" crc="76325407" ref="contact"/>
+    <file name="phone-grey-u626-fr.png" crc="4174199938" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4159919534" seo="true" mt="1604865530745" redirect="true"/>
+  <file name="about-us.html" crc="4244127627" seo="true" mt="1604865530731" redirect="true"/>
+  <file name="service.html" crc="6411946" seo="true" mt="1604866711834" redirect="true"/>
+  <file name="gallery.html" crc="436036782" seo="true" mt="1604867255004" redirect="true"/>
+  <file name="contact.html" crc="55921500" seo="true" mt="1604867360454" redirect="true"/>
+  <file name="our-team.html" crc="3815022514" seo="true" mt="1604866755117" redirect="true"/>
+  <file name="untitled-8.html" crc="353077304" seo="true" mt="1604752829761" redirect="false"/>
+</manifest>
